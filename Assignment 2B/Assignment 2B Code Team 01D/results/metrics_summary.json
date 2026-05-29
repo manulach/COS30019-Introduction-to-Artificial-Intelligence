@@ -1,0 +1,23 @@
+{
+  "LSTM": {
+    "MAE": 14.9259,
+    "RMSE": 22.3696,
+    "MAPE": 38.5448,
+    "train_time_s": 258.1,
+    "epochs_run": 11
+  },
+  "GRU": {
+    "MAE": 16.1971,
+    "RMSE": 24.4058,
+    "MAPE": 37.7067,
+    "train_time_s": 441.3,
+    "epochs_run": 11
+  },
+  "CNN_LSTM": {
+    "MAE": 13.9024,
+    "RMSE": 21.1181,
+    "MAPE": 28.1554,
+    "train_time_s": 218.9,
+    "epochs_run": 11
+  }
+}
