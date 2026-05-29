@@ -1,0 +1,9 @@
+{
+  "default_origin": "2000",
+  "default_destination": "3002",
+  "default_model": "LSTM",
+  "default_k": 5,
+  "default_interval": 36,
+  "window_width": 1100,
+  "window_height": 750
+}
